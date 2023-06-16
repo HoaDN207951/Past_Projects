@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Hoa's Studies\source\repos\Hangman_Game\Hangman_Game\main.cpp(23,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Hangman_Game.vcxproj -> C:\Users\Hoa's Studies\source\repos\Hangman_Game\x64\Debug\Hangman_Game.exe
